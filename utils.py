@@ -526,9 +526,9 @@ class bUtils:
 
 								for DataItem in TableData:
 									Column_0 = self.FixHTML(DataItem[0])
-									Column_1 = self.FixHTML(DataItem[3])
-									Column_2 = self.FixHTML(DataItem[4])
-									Column_3 = self.FixHTML(DataItem[5])
+									Column_1 = self.FixHTML(DataItem[1])
+									Column_2 = self.FixHTML(DataItem[2])
+									Column_3 = self.FixHTML(DataItem[3])
 
 									NewRow = soup.new_tag("tr")
 									
