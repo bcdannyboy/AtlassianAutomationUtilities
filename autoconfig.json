@@ -1,0 +1,21 @@
+{
+   "Basics":{
+      "CUser": "CONFLUENCE/JIRA USERNAME",
+      "CPass": "CONFLUENCE/JIRA PASSWORD",
+      "Space_Key": "CONFLUENCE SPACE KEY",
+      "Confluence_BaseURL": "CONFLUENCE BASE URL (i.e https://confluence:port)",
+      "Jira_BaseURL": "JIRA BASE URL (i.e https://jira:port)",
+      "Jira_ProjectKey": "PROJECTKEY",
+      "proxy": {
+         "use": "false",
+         "http": "HTTP PROXY SERVER",
+         "https": "HTTP PROXY SERVER"
+      }
+   },
+   "TemplateFiles":{
+      "Template1":"Path/To/HTML/Template/For/Confluence/Uploading"
+   },
+   "Development":{
+      "Verbosity":"3"
+   }
+}
