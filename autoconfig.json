@@ -5,7 +5,7 @@
       "Space_Key": "CONFLUENCE SPACE KEY",
       "Confluence_BaseURL": "CONFLUENCE BASE URL (i.e https://confluence:port)",
       "Jira_BaseURL": "JIRA BASE URL (i.e https://jira:port)",
-      "Jira_ProjectKey": "PROJECTKEY",
+      "Jira_ProjectKey": "JIRA PROJECT KEY",
       "proxy": {
          "use": "false",
          "http": "HTTP PROXY SERVER",
